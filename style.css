@@ -73,6 +73,9 @@ body{
 	font-size:2.15rem;
 	margin-bottom:1.5rem;
 }
+.card-body .product-data h1 span{
+	color:hsl(277, 64%, 61%);
+}
 .card-body .product-data .description{
 	font-family:var(--font-title);
 	font-weight:100;
